@@ -38,7 +38,7 @@ Then, start the development server:
 ```
 npm start
 ```
-Open http://localhost:3000 to view the app in your browser.
+Open http://localhost:3001 to view the app in your browser.
 
 Contributing
 Contributions are welcome! Please read the contributing guide for more information.
